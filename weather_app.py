@@ -56,6 +56,7 @@ class WeatherApp(QWidget):
             QPushButton#get_weather_button{
                 font-size: 30px;
                 font-weight: bold;
+                background-color: blue;
             }
             QLabel#temperature_label{
                 font-size: 100px;
@@ -163,4 +164,5 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     weather_app = WeatherApp()
     weather_app.show()
+
     sys.exit(app.exec_())
