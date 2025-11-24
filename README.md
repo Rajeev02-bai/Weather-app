@@ -6,7 +6,7 @@ A simple weather app created using python and PyQt5 that displays the current we
 - Displays the temperature in Celsius
 - Displays the weather condition using emoji's
 
-##Installation
+## Installation
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-Rajeev02-bai/weather-app.git
