@@ -11,7 +11,7 @@ A simple weather app created using python and PyQt5 that displays the current we
 ```bash
 git clone https://github.com/your-Rajeev02-bai/weather-app.git
 ```
-2.install the required libraries
+2. Install the required libraries
 ```bash
 pip install requests
 ```
