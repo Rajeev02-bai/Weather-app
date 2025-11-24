@@ -10,8 +10,10 @@ A simple weather app created using python and PyQt5 that displays the current we
 1. Clone the repository:
 ```bash
 git clone https://github.com/your-Rajeev02-bai/weather-app.git
+```
 2.install the required libraries
-run:
 ```bash
 pip install requests
+```
+```bash
 pip install PyQt5
