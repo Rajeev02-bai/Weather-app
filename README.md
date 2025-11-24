@@ -9,7 +9,7 @@ A simple weather app created using python and PyQt5 that displays the current we
 ## Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-Rajeev02-bai/weather-app.git
+git clone https://github.com/Rajeev02-bai/weather-app.git
 ```
 2. Install the required libraries
 ```bash
